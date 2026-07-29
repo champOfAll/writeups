@@ -1,2 +1,5 @@
-# writeups
-v1olet's official CTF writeups, notes, and stats.
+# Writeups
+v1olet's official repository for CTF writeups and stats.
+
+# Template
+insert here (md/HTML)
